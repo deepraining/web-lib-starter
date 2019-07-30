@@ -1,7 +1,7 @@
 {
   "name": "web-lib-starter",
   "version": "0.1.0",
-  "description": "Web Lib Starter - A boilerplate for creating a Web library.",
+  "description": "A boilerplate for creating a Web library.",
   "main": "lib/index.js",
   "module": "es/index.js",
   "author": "senntyou <jiangjinbelief@163.com>",
